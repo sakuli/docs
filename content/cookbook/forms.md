@@ -21,7 +21,7 @@ You can also use the native paste mechanism to paste a string into a field:
 ```await env.paste("value");```  
 
 #### Type
-With ```env.type();``` you can simulate keyboard inputs and thus you are able to write into a textfield like a real user. 
+With ```env.type("FooBar");``` you can simulate keyboard inputs and thus you are able to write into a textfield like a real user. 
  
 ## Input Fields of type text / password / etc.
 
